@@ -1,0 +1,9 @@
+for any method that involves controller input, going to need an array of size 5 that contains only 0s and 1s
+  -each element represents a button that will be active (1) or unactive (0)
+  -[up,right,down,left,center]
+  
+methods that will need this:
+  -throwing die
+  -general movement on board
+  -answering questions (general)
+  -special question types (tbd if we implement this)
