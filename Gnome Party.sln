@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{65AF0866-605E-0C4B-E001-5A97E23E4607}") = "Gnome Party", "Assembly-CSharp.csproj", "{B2544530-DE33-23CD-F2E1-3466332C1A0C}"
+EndProject
+Project("{65AF0866-605E-0C4B-E001-5A97E23E4607}") = "Gnome Party", "Assembly-CSharp-Editor.csproj", "{5DB382AE-1D32-0487-982A-27575FD17E42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2544530-DE33-23CD-F2E1-3466332C1A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2544530-DE33-23CD-F2E1-3466332C1A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2544530-DE33-23CD-F2E1-3466332C1A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2544530-DE33-23CD-F2E1-3466332C1A0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DB382AE-1D32-0487-982A-27575FD17E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB382AE-1D32-0487-982A-27575FD17E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB382AE-1D32-0487-982A-27575FD17E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB382AE-1D32-0487-982A-27575FD17E42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
